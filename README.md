@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Everton from Arkham - Document Manager 
 - 👀 I’m interested in QA Frameworks and functional programming
-- 🌱 I’m currently learning Karate and Cypress
-- 💞️ I’m looking to collaborate on any kind of project :D
